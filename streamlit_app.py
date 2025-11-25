@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : ["texts" : [중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquirekorea.co.kr%2Farticle%2F67862&psig=AOvVaw1ThjEN_lPq3q-0cQ1cc79O&ust=1764115766006000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiPk8OBjJEDFQAAAAAdAAAAABAX]},
-    labels[1] : ["texts" : [짜장면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%259C%25EC%259E%25A5%25EB%25A9%25B4&psig=AOvVaw2JQifVnGa5SJ-ZcLO77m87&ust=1764115796192000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDf0dCBjJEDFQAAAAAdAAAAABAE]},
-    labels[2] : ["texts" : [짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw1CmgK6vnR654FTYlMIFHza&ust=1764115882627000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCAl_qBjJEDFQAAAAAdAAAAABAE]},
-    labels[3] : ["texts" : [탕수육은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhomecuisine.co.kr%2Fhc20%2F2737&psig=AOvVaw2CfTeaQE94p_CxZPMU22NA&ust=1764115930038000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjY45GCjJEDFQAAAAAdAAAAABAM]},
+    labels[0] : ["texts" : [중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
+    labels[1] : ["texts" : [짜장면은 맛있어"], "images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
+    labels[2] : ["texts" : [짬뽕은 맛있어"], "images" : ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
+    labels[3] : ["texts" : [탕수육은 맛있어"], "images" : ["https://shop.hansalim.or.kr/shopping/is/itm/060306001/060306001_1_568.jpg"]},
 }
 
 # ======================
