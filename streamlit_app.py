@@ -76,8 +76,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
   labels[0] : {"texts" : ["중국식 냉면은 맛있어"],"images" : ["https://img.daily.co.kr/@files/www.daily.co.kr/content/food/2020/20200702/2d3091cdc3349336f4c22f0d3145418d.jpg"]},
   labels[1] : {"texts" : ["짜장면은 맛있어"],"images" : ["https://minio.nculture.org/amsweb-opt/multimedia_assets/5/13787/20519/c/13787-full-size.jpg"]},
-  labels[2] : {"texts" : ["짬뽕은 맛있어"],"images" : ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp]},
-  labels[3] : {"texts" : ["탕수육은 맛있어"],"images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg]},
+  labels[2] : {"texts" : ["짬뽕은 맛있어"],"images" : ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
+  labels[3] : {"texts" : ["탕수육은 맛있어"],"images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg"]},
 }
 
 # ======================
